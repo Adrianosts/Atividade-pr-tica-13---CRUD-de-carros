@@ -197,3 +197,5 @@ function removerVeiculo() {
 function sairDoSistema() {
   console.log("Obrigado, tenha um bom dia.");
 }
+
+console.log("FIM")
